@@ -1,7 +1,7 @@
 # yijia_ids706_miniProj4
 
 ## CI/CD Badge
-[![CI](https://github.com/yijiaduke/yijia_ids706_miniProj4/actions/workflows/hello.yml/badge.svg)](https://github.com/yijiaduke/yijia_ids706_miniProj4/actions/workflows/hello.yml)
+[![CI](https://github.com/nogibjj/yijia_ids706_miniProj4/actions/workflows/hello.yml/badge.svg)](https://github.com/nogibjj/yijia_ids706_miniProj4/actions/workflows/hello.yml)
 
 ## Python Template
 
@@ -19,7 +19,7 @@ This project is a Python project skeleton that uses GitHub Actions with a matrix
 ### 1. Clone the Repository
 
 ```bash
-git clone git@github.com:yijiaduke/yijia_ids706_miniProj4.git
+git clone git@github.com:nogibjj/yijia_ids706_miniProj4.git
 ```
 
 ### 2. Open the Repository in Visual Studio Code
